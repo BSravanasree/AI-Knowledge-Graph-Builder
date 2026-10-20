@@ -1,0 +1,25 @@
+From: Arjun Mehta <arjun.mehta@meridiancards.example>
+To: Priya Raman <priya.raman@meridiancards.example>
+Subject: RE: Night-time fraud spike - Grocery findings
+Date: Thu, 09 Jul 2026 16:40:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hi Priya,
+
+Findings from the Grocery deep-dive:
+- Most fraudulent Grocery transactions carry the Location Mismatch flag.
+- Many also come from devices with low Sentinel DeviceID trust scores.
+- Harbor Trust Bank reported the same pattern across their Chennai portfolio =
+last month.
+
+I suggest we share indicators with Harbor Trust Bank and add Grocery to the s=
+tep-up authentication pilot.
+
+Regards,
+Arjun Mehta
+Fraud Analyst
+
+> On 2 Jul, Priya Raman wrote:
+> Arjun, please investigate the Grocery cases

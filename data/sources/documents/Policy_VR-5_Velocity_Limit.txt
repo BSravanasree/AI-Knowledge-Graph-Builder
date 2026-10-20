@@ -1,0 +1,20 @@
+Fraud Control Policy VR-5: Transaction Velocity Limit
+
+Policy owner: Meera Nair, Head of Compliance
+Applies to: all Meridian Card Services card products
+
+1. Purpose
+Velocity rule VR-5 mitigates High Velocity fraud, where a compromised card is used many
+times in a short period.
+
+2. Rule
+If a card performs 5 or more transactions within 24 hours, any further transaction is
+held for review by the fraud operations team in Chennai.
+
+3. Evidence
+Cards with 5 or more transactions in 24 hours show a fraud rate close to 10 percent,
+against a portfolio average of 1.5 percent (Q3 Fraud Risk Review).
+
+4. Exceptions
+Travel merchants may request a temporary exception during peak season. Exceptions must
+be approved by Priya Raman.

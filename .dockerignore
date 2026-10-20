@@ -1,0 +1,9 @@
+.git
+.venv
+venv
+__pycache__
+storage/rag
+storage/graph.pkl
+storage/uploads
+.env
+.streamlit/secrets.toml

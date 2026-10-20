@@ -1,0 +1,21 @@
+# secrets — never commit
+.env
+.streamlit/secrets.toml
+
+# generated at runtime (graph, vector index, caches, uploads, models)
+storage/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/

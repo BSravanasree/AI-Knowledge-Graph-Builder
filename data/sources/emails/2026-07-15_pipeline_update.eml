@@ -1,0 +1,17 @@
+From: Kavya Iyer <kavya.iyer@meridiancards.example>
+To: Priya Raman <priya.raman@meridiancards.example>
+Subject: Knowledge graph pipeline update
+Date: Wed, 15 Jul 2026 11:05:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hi Priya,
+
+The nightly pipeline now loads transactions, fraud cases and documents into t=
+he Neo4j knowledge graph. Sentinel DeviceID trust scores are part of every tr=
+ansaction node. We also signed a data-sharing agreement with Harbor Trust Ban=
+k so their fraud indicators can be added next quarter.
+
+Kavya Iyer
+Lead Data Engineer

@@ -1,0 +1,29 @@
+# Python 3.11 or 3.12 recommended (3.13 works; 3.14 is not yet supported by spaCy/faiss wheels)
+
+# ── Dashboard ──
+streamlit>=1.50,<2
+plotly>=5.20
+
+# ── Data ingestion ──
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+pypdf>=4.0
+python-docx>=1.1
+python-dotenv>=1.0
+
+# ── Extraction (LLM + NLP fallback) ──
+google-genai>=1.20
+pydantic>=2.6
+spacy>=3.7,<3.9
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+
+# ── Graph ──
+neo4j>=5.20
+networkx>=3.2
+
+# ── RAG ──
+langchain-text-splitters>=0.3
+fastembed>=0.5
+faiss-cpu>=1.8
+scipy>=1.11

@@ -1,0 +1,21 @@
+From: Priya Raman <priya.raman@meridiancards.example>
+To: Fraud Team <fraud-team@meridiancards.example>
+Subject: Night-time fraud spike - action needed
+Date: Thu, 02 Jul 2026 09:15:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Team,
+
+The overnight report shows most of this month's confirmed fraud happened betw=
+een midnight and 6 am. Grocery merchants are over-represented, which is unusu=
+al.
+
+Arjun, please investigate the Grocery cases and check whether they share a Lo=
+cation Mismatch pattern. Kavya, can you make sure the knowledge graph refresh=
+ includes the new Sentinel DeviceID scores?
+
+Thanks,
+Priya Raman
+Head of Fraud Risk
